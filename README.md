@@ -12,7 +12,7 @@
 
 [Contributing](#contributing)
 
-[Tests](#tests)
+[Walkthrough](#walkthrough)
 
 [Questions](#questions)
 
@@ -22,16 +22,9 @@ This is an e-commerce back end for use by a retail company
 ## License
 This product is under the The Unlicense.
 
-## Installation
+## Walkthrough
 
-
-## Usage
-
-
-## Contributing
-
-
-## Tests
+https://youtu.be/KQ-n6dU7j_I
 
 
 ## Questions
